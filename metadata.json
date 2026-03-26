@@ -1,0 +1,7 @@
+{
+  "name": "Mid Valley Fitness",
+  "description": "Premium hometown gym in Cashmere, WA. Community, consistency, and real results.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
